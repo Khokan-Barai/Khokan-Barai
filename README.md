@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Khokan-Barai
 - 👀 I’m interested in Web Application Development.
-- 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on an application development team.
 - 📫 Mail me- (khokanbarai522@gmail.com) or call-(+8801703228070)
 
